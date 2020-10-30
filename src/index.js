@@ -6,7 +6,7 @@ import {
   AvatarRewriter,
   NameRewriter,
   BodyRewriter
-} from './rewriters.js';
+} from './rewriters.js'
 
 const SOCIAL_LINKS = [
   {
